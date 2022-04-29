@@ -4,9 +4,7 @@ A template for Airtable Custom Apps using React-Bootstrap, in addition to TypeSc
 
 ## Bootstrap Icons
 
-In React-Bootstrap, and especially in Airtable custom apps, using Bootstrap icons can be a bit tricky. One easy way to do it is by installing the library `react-bootstrap-icons`.
-
-`npm i react-bootstrap-icons`
+In React-Bootstrap, and especially in Airtable custom apps, using Bootstrap icons can be a bit tricky. One easy way to do it is by using the library `react-bootstrap-icons`.
 
 Than you may use icons like this:
 
